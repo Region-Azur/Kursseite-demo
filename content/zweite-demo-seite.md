@@ -9,6 +9,6 @@ toc: true
 
 ### Sub Sub Titel
 
-![Bild](/Kursseite-Demo/static/uploads/_dsc3898.jpg)
+![Bild](/Kursseite-Demo/static/uploads/dsc_0215a.jpg)
 
 {% include download.html href="/static/uploads/leer.pdf" label="PDF Dowload" variant="primary" new_tab=true %}
