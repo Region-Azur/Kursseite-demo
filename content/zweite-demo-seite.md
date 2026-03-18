@@ -13,10 +13,6 @@ toc: true
 
 [Hallo](https://google.com)
 
-Tschüss
-
-[](/Kursseite-Demo/index/)
-
 [Home](/Kursseite-Demo/)
 
 [](/Kursseite-Demo/zweite-demo-seite/)
